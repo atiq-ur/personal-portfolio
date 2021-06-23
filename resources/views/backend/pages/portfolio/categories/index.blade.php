@@ -70,7 +70,6 @@
                                         <td>
                                             <a class="btn btn-success text-white" href="{{ route('admin.category.edit', $cat->id) }}">Edit</a>
                                             <a href="#deleteModal-{{ $cat->id }}" class="btn btn-danger" data-toggle="modal" data-target="#deleteModal-{{ $cat->id }}">Delete</a>
-
                                         </td>
                                     </tr>
                                     <div class="modal fade" id="deleteModal-{{ $cat->id }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
@@ -96,6 +95,7 @@
                                             </div>
                                         </div>
                                     </div>
+
                                 @endforeach
                                 </tbody>
                             </table>
