@@ -29,8 +29,8 @@ h1, h2, h3, h4, h5, h6 {
   position: fixed;
   visibility: hidden;
   opacity: 0;
-  right: 15px;
-  bottom: 15px;
+  right: 5px;
+  bottom: 100px;
   z-index: 996;
   background: #0563bb;
   width: 40px;
