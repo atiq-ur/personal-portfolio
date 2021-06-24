@@ -14,7 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [\App\Http\Controllers\Frontend\PagesController::class, 'index'])->name('index');
-Route::get('/portfolio-details', [\App\Http\Controllers\Frontend\PagesController::class, 'portfolio'])->name('portfolio');
+Route::get('/portfolio-details/{id}', [\App\Http\Controllers\Frontend\PagesController::class, 'portfolio_details'])->name('portfolio.details');
+Route::post('/contact', [\App\Http\Controllers\Frontend\PagesController::class, 'contact'])->name('contact');
 
 Auth::routes();
 Route::get('/admin', [App\Http\Controllers\HomeController::class, 'index'])->name('admin.index');
@@ -26,5 +27,7 @@ Route::group(['middleware' => 'auth'], function (){
         Route::resource('pages', \App\Http\Controllers\Backend\AdminPageController::class);
         Route::resource('category', \App\Http\Controllers\Backend\CategoryController::class);
         Route::resource('portfolio', \App\Http\Controllers\Backend\PortfolioController::class);
+        Route::get('portfolio/image/delete/{id}', [\App\Http\Controllers\Backend\PortfolioImageController::class, 'destroy'])
+            ->name('portfolio_image.destroy');
     });
 });

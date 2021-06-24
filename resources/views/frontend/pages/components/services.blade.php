@@ -3,7 +3,10 @@
 
         <div class="section-title">
             <h2>Services</h2>
-            <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+            <p>
+                I am always try to develop projects with new features that should be helpful in future scope.
+                However I have a experience on different language and framework. I will be available for these services.
+            </p>
         </div>
 
         <div class="row">
@@ -16,8 +19,8 @@
                         </svg>
                         <i class="bx bxl-dribbble"></i>
                     </div>
-                    <h4><a href="">Lorem Ipsum</a></h4>
-                    <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                    <h4><a href="">Laravel</a></h4>
+                    <p>I have been working on web development over 2 years with several clients.</p>
                 </div>
             </div>
 
@@ -29,8 +32,8 @@
                         </svg>
                         <i class="bx bx-file"></i>
                     </div>
-                    <h4><a href="">Sed Perspiciatis</a></h4>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                    <h4><a href="">Vue Js</a></h4>
+                    <p>The most popular framework for frontend development. I am familiar with vue js and developed some apps.</p>
                 </div>
             </div>
 
@@ -42,8 +45,8 @@
                         </svg>
                         <i class="bx bx-tachometer"></i>
                     </div>
-                    <h4><a href="">Magni Dolores</a></h4>
-                    <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                    <h4><a href="">Python</a></h4>
+                    <p>The most popular programming language uses for multi purposes. I have been working with python over 3 years.</p>
                 </div>
             </div>
 
@@ -55,8 +58,8 @@
                         </svg>
                         <i class="bx bx-layer"></i>
                     </div>
-                    <h4><a href="">Nemo Enim</a></h4>
-                    <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                    <h4><a href="">Machine Learning</a></h4>
+                    <p>I have high interests on Machine learning. Using this I'm doing research that's why we should transform our idea to real-life application. </p>
                 </div>
             </div>
 
@@ -68,8 +71,8 @@
                         </svg>
                         <i class="bx bx-slideshow"></i>
                     </div>
-                    <h4><a href="">Dele Cardo</a></h4>
-                    <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+                    <h4><a href="">AWS</a></h4>
+                    <p>I have worked on amazon web service(AWS). I have worked on routing, ec2, databases and managing web application into cloud platform.</p>
                 </div>
             </div>
 
@@ -81,8 +84,8 @@
                         </svg>
                         <i class="bx bx-arch"></i>
                     </div>
-                    <h4><a href="">Divera Don</a></h4>
-                    <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+                    <h4><a href="">C/C++</a></h4>
+                    <p>I have a good experience on C/C++ programming. I have done many console based based project using C/C++ language.</p>
                 </div>
             </div>
 

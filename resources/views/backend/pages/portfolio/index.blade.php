@@ -137,8 +137,8 @@
                                         <td>{{ \Carbon\Carbon::parse($port->updated_at)->format('d M Y') }}</td>
                                         <td>{{ \Carbon\Carbon::parse($port->created_at)->format('d M Y') }}</td>
                                         <td>
-                                            <a class="btn btn-success text-white" href="{{ route('admin.portfolio.edit', $port->id) }}">Edit</a>
-                                            <a href="#deleteModal-{{ $port->id }}" class="btn btn-danger" data-toggle="modal" data-target="#deleteModal-{{ $cat->id }}">Delete</a>
+                                            <a class="btn btn-success text-white" href="{{ route('admin.portfolio.edit', $port->id) }}">View Details</a>
+                                            <a href="#deleteModal-{{ $port->id }}" class="btn btn-danger" data-toggle="modal" data-target="#deleteModal-{{ $port->id }}">Delete</a>
                                         </td>
                                     </tr>
                                     <div class="modal fade" id="deleteModal-{{ $port->id }}" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">

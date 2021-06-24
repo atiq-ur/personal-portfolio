@@ -46,21 +46,21 @@
                     <h5>2020 - Present</h5>
                     <p><em>Nhimex, Dhaka, Bangladesh </em></p>
                     <ul>
-                        <li>Lead in the design, development, and implementation of the graphic, layout, and production communication materials</li>
-                        <li>Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project. </li>
-                        <li>Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design</li>
-                        <li>Oversee the efficient use of production project budgets ranging from $2,000 - $25,000</li>
+                        <li>Lead in the design, development, and implementation of the web design, development and managing projects.</li>
+                        <li>Delegate tasks to the 7 members of the developer team and provide counsel on all aspects of the project. </li>
+                        <li>Supervise the assessment of most of the projects in order to ensure quality and accuracy of the developed projects</li>
+                        <li>Delivered machine learning approaches to real life application from the starting.</li>
                     </ul>
                 </div>
                 <div class="resume-item">
-                    <h4>Graphic design specialist</h4>
-                    <h5>2017 - 2018</h5>
-                    <p><em>Stepping Stone Advertising, New York, NY</em></p>
+                    <h4>Web Developer</h4>
+                    <h5>2018 - Present</h5>
+                    <p><em>Contract based and self</em></p>
                     <ul>
-                        <li>Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).</li>
-                        <li>Managed up to 5 projects or tasks at a given time while under pressure</li>
-                        <li>Recommended and consulted with clients on the most appropriate graphic design</li>
-                        <li>Created 4+ design presentations and proposals a month for clients and account managers</li>
+                        <li>Developed numerous different kinds of projects (Content Managements, Company website, Blog).</li>
+                        <li>Managed up to 3 projects or tasks at a given time while under pressure</li>
+                        <li>Recommended and consulted with clients on the most appropriate design and development</li>
+                        <li>Developed and worked on 15+ project which 5 of them for clients.</li>
                     </ul>
                 </div>
             </div>
